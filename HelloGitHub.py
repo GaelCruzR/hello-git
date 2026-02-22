@@ -1,4 +1,4 @@
-def Saludo(Nombre):
-    print("Hola", Nombre)
+def saludo(nombre):
+    print("Hola", nombre)
 
-Saludo("Gael")
+saludo("Gael")
